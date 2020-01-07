@@ -1,4 +1,4 @@
-# Introduction to Python Part 1:
+# Introduction to Python Part 2:
 
 Learn more Python and much more with the free Galvanize Data Science Prep course! [http://bit.ly/gprepdata](http://bit.ly/gprepdata)
 
@@ -103,7 +103,7 @@ You need:
 
 
 
-## [<< Follow along in this google colab >>](https://colab.research.google.com/drive/1V6_032GIiL4TvSikqC91k2Fs6KInPpeW) 
+## [<< Follow along in this google colab >>](https://colab.research.google.com/drive/1wbPWArLbZYgq7aagtHIXAk1y3RdWlQDH) 
 
 Or type the url **py2lab.sage.codes**
 
