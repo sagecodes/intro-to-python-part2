@@ -117,14 +117,6 @@ Or type the url **py2lab.sage.codes**
 
 ------
 
-[Come back tomorrow for part 2](https://www.eventbrite.com/e/intro-to-programming-with-python-part-2-tickets-86869724685)!
-
-- Part 1 Recap
-- Functions
-- Scopes
-- Working with libraries
-- More
-
 Learn more Python and much more with the free Galvanize Data Science Prep course! [http://bit.ly/gprepdata](http://bit.ly/gprepdata)
 
 -------
